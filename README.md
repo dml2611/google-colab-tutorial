@@ -71,7 +71,7 @@ This tutorial will guide you through the steps to open a Google Colab notebook u
    ```
 ---
 
-**Reading an Excel File from Google Drive**
+# Reading an Excel File from Google Drive
 
    Once Google Drive is mounted, you can read an Excel file using Pandas:
    ```python
@@ -91,6 +91,7 @@ This tutorial will guide you through the steps to open a Google Colab notebook u
    # Displaying the first few rows of the DataFrame
    print(df.head())
    ```
+---
 
 ## Additional Resources
 - **Google Colab Documentation:** Official documentation for Google Colab.
