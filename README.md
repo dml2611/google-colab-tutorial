@@ -1,4 +1,4 @@
-# How to Open a Google Colab Notebook from Your Gmail Account
+# Getting Started with Google Colab Notebook from Your Gmail Account
 
 This tutorial will guide you through the steps to open a Google Colab notebook using your Gmail account.
 
