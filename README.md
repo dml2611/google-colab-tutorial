@@ -30,7 +30,7 @@ This tutorial will guide you through the steps to open a Google Colab notebook u
 
      ```python
      from google.colab import drive
-     drive.mount('/content/drive')
+     drive.mount('/content/gdrive')
      ```
    - Follow the link provided, select your Google account, and grant permissions.
    - After authorization, you will receive a code to paste into the notebook which will mount your Google Drive.
@@ -58,7 +58,7 @@ This tutorial will guide you through the steps to open a Google Colab notebook u
 
    # Mount Google Drive to access files
    from google.colab import drive
-   drive.mount('/content/drive')
+   drive.mount('/content/gdrive')
 
    # Path to the CSV file in your Google Drive
    file_path = '/content/drive/My Drive/path/to/your/file.csv'
@@ -80,7 +80,7 @@ This tutorial will guide you through the steps to open a Google Colab notebook u
 
    # Mount Google Drive to access files
    from google.colab import drive
-   drive.mount('/content/drive')
+   drive.mount('/content/gdrive')
 
    # Path to the Excel file in your Google Drive
    file_path = '/content/drive/My Drive/path/to/your/file.xlsx'
