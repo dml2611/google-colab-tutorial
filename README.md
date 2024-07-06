@@ -27,6 +27,7 @@ This tutorial will guide you through the steps to open a Google Colab notebook u
 4. Mounting Google Drive (Optional)
    - If your notebook needs access to files stored in your Google Drive:
    - Add the following code snippet to a code cell in your Colab notebook:
+
      ```python
      from google.colab import drive
      drive.mount('/content/drive')
