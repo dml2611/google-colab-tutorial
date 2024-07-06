@@ -17,8 +17,8 @@ This tutorial will guide you through the steps to open a Google Colab notebook u
    - Click on `File` -> `New notebook`.
    - A new untitled notebook will open where you can start writing code immediately.
 3. To open an existing notebook:
-   - Click on `File` -> `Open notebook` -> `Google Drive`.
-   - Select `Open notebook`. Click on `File` -> `Open notebook`.
+   - Click on `File`.
+   - Select `Open notebook`. 
    - Choose the source of your notebook:
      - "Google Drive" to access notebooks stored in your Google Drive.
      - "GitHub" to access notebooks from a GitHub repository.
@@ -39,10 +39,11 @@ This tutorial will guide you through the steps to open a Google Colab notebook u
 
 ## Step 5: Saving Changes
 1. Colab autosaves your notebook periodically.
-2. You can manually save your changes by clicking on `File` -> `Save` or pressing `Ctrl` + `S` (`Cmd` + `S` on Mac). Alternatively, you can also save manually by going to `File > Save a copy in Drive`.
+2. You can manually save your changes by clicking on `File` -> `Save` or pressing `Ctrl` + `S` (`Cmd` + `S` on Mac).
+   Alternatively, you can also save manually by going to `File` > `Save a copy in Drive`.
 
-## Additional Tips:
+## Additional Resources
 - **Google Colab Documentation:** Official documentation for Google Colab.
-GitHub Repository: Create a GitHub repository to store and share your Colab notebooks with others.
+- **GitHub Repository:** Create a GitHub repository to store and share your Colab notebooks with others. You can do so by going to `File` > `Save a copy in GitHub`.
 
 By following these steps, you can easily access and start working on Google Colab notebooks from your Gmail account.
