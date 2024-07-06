@@ -46,7 +46,9 @@ This tutorial will guide you through the steps to open a Google Colab notebook u
 2. You can manually save your changes by clicking on `File` -> `Save` or pressing `Ctrl` + `S` (`Cmd` + `S` on Mac). Alternatively, you can go to `File` -> `Save a copy in Drive`.
 4. You can also save your file on GitHub by going to `File` -> `Save a copy in GitHub`. Choose your repository and branch, then click `OK` to save."
 
-## Reading a CSV File from Google Drive**
+---
+
+## Reading a CSV File from Google Drive
 
    Once Google Drive is mounted, you can read a CSV file using Pandas:
 
@@ -67,6 +69,8 @@ This tutorial will guide you through the steps to open a Google Colab notebook u
    # Displaying the first few rows of the DataFrame
    print(df.head())
    ```
+---
+
 **Reading an Excel File from Google Drive**
 
    Once Google Drive is mounted, you can read an Excel file using Pandas:
@@ -87,7 +91,6 @@ This tutorial will guide you through the steps to open a Google Colab notebook u
    # Displaying the first few rows of the DataFrame
    print(df.head())
    ```
-
 
 ## Additional Resources
 - **Google Colab Documentation:** Official documentation for Google Colab.
